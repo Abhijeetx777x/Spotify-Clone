@@ -189,6 +189,3 @@ Your support helps motivate future projects and improvements!
 ### 🎶 Bringing Music and Code Together!
 
 ```
-
-This README is portfolio-ready and suitable for recruiters, internship applications, and GitHub profile showcases.
-```
